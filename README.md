@@ -11,3 +11,4 @@ Desarrolla una herramienta para que los usuarios puedan almacenar y gestionar su
 | PUERTAS FUENTES FABRIZIO | Desarrollador |
 | GARCIA VALVERDE MAYKOL FERNANDO | Desarrollador |
 | BASTIDAS VILCA NIKOL.E CELESTE | Desarrollador |
+https://docs.google.com/document/d/1cXvBqzwAV9Yd8Q3omJ8n0zRYj8JpdFkVNJXnHxl2S2E/edit?usp=sharing
